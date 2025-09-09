@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+.venv/
+.env
+*.env
+
+# Streamlit cache/config
+.streamlit/
+streamlit/
+
+# Vector DB
+.chroma/
+
+# Temp dumps
+dump/
+
+# OS junk
+.DS_Store
+Thumbs.db
